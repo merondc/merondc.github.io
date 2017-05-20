@@ -1,5 +1,5 @@
 <?php
-// Free html5 templates : www.Html5xcss3.com
+
 
 $text = "<span style='color:red; font-size: 35px; line-height: 40px; magin: 10px;'>Error! Please try again.</span>";
 
@@ -223,7 +223,7 @@ if(isset($_POST['submitcontact']))
 			</div>
 			<div class="copyright">
 				<div class="zerogrid wrapper">
-					Copyright @ CAFEHOME - <a href="http://www.html5xcss3.com" target="_blank" rel="nofollow">Free Html5 Templates</a> Designed by HTML5XCSS3
+					Copyright @ CAFEHOME - 
 					<ul class="quick-link">
 						<li><a href="#">Privacy Policy</a></li>
 						<li><a href="#">Terms of Use</a></li>
